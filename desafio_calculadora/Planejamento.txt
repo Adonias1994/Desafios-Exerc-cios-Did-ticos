@@ -1,0 +1,3 @@
+- Desenvolver uma calculadora com as quatro operações básicas.
+- Inclementar as operações de potencia e percentual.
+- Desenvolver a parte visual do programa.

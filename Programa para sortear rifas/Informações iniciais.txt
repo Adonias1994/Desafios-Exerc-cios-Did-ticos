@@ -1,0 +1,7 @@
+- Linguagem de programação utilizada: Python 3
+
+- Objetivo: Criar um programa que realize sorteios de rifas
+
+- Primeira etapa: Back End
+
+- Segunda etapa: Front End
