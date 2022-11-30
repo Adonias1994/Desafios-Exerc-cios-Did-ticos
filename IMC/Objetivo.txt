@@ -1,0 +1,5 @@
+--- Esse programa será criado apenas para fins didáticos.
+
+--- Não será atribuído ainda parte visual no programa.
+
+--- Programa para saber se a pessoa está no peso ideal ou não.
